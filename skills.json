@@ -1,0 +1,55 @@
+{
+  "repository": "multica-skills",
+  "skills": [
+    {
+      "name": "benchmark-paper-template",
+      "path": "skills/benchmark-paper-template",
+      "origin": "https://github.com/HKUSTDial/Supervisor-Skills/tree/main/plugins/phd-research/skills/benchmark-paper-template"
+    },
+    {
+      "name": "figure-designer",
+      "path": "skills/figure-designer",
+      "origin": "https://github.com/HKUSTDial/Supervisor-Skills/tree/main/plugins/phd-research/skills/figure-designer"
+    },
+    {
+      "name": "idea-evaluator",
+      "path": "skills/idea-evaluator",
+      "origin": "https://github.com/HKUSTDial/Supervisor-Skills/tree/main/plugins/phd-research/skills/idea-evaluator"
+    },
+    {
+      "name": "intro-drafter",
+      "path": "skills/intro-drafter",
+      "origin": "https://github.com/HKUSTDial/Supervisor-Skills/tree/main/plugins/phd-research/skills/intro-drafter"
+    },
+    {
+      "name": "pre-submission-reviewer",
+      "path": "skills/pre-submission-reviewer",
+      "origin": "https://github.com/HKUSTDial/Supervisor-Skills/tree/main/plugins/phd-research/skills/pre-submission-reviewer"
+    },
+    {
+      "name": "souldraw",
+      "path": "skills/souldraw",
+      "origin": "local runtime skill copied from the Multica workspace"
+    },
+    {
+      "name": "tech-paper-template",
+      "path": "skills/tech-paper-template",
+      "origin": "https://github.com/HKUSTDial/Supervisor-Skills/tree/main/plugins/phd-research/skills/tech-paper-template"
+    },
+    {
+      "name": "vibe-research-workflow",
+      "path": "skills/vibe-research-workflow",
+      "origin": "https://github.com/HKUSTDial/Supervisor-Skills/tree/main/plugins/phd-research/skills/vibe-research-workflow"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "fireworks-tech-graph",
+      "reason": "Multica export timed out and no local source directory was available."
+    },
+    {
+      "name": "remote-server",
+      "reason": "Contains private local host aliases and paths."
+    }
+  ]
+}

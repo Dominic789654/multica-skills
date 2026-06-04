@@ -1,0 +1,133 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
+  <diagram id="JhbhC5JN-MmX0p4mBLdr" name="Page-1">
+    <mxGraphModel dx="944" dy="1064" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="node-root" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#003366;strokeColor=#002244;fontColor=#FFFFFF;spacing=5;arcSize=15;" value="分解问题" vertex="1">
+          <mxGeometry height="50" width="120" x="450" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="icon-root" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" value="🤖" vertex="1">
+          <mxGeometry height="30" width="30" x="550" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="node-llm-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#888888;strokeColor=#444444;fontColor=#FFFFFF;spacing=5;arcSize=15;" value="使用 LLM 解决" vertex="1">
+          <mxGeometry height="50" width="120" x="250" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="icon-llm-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" value="🤖" vertex="1">
+          <mxGeometry height="30" width="30" x="350" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="node-divide-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#003366;strokeColor=#002244;fontColor=#FFFFFF;spacing=5;arcSize=15;" value="分解问题" vertex="1">
+          <mxGeometry height="50" width="120" x="450" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="icon-divide-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" value="🤖" vertex="1">
+          <mxGeometry height="30" width="30" x="555" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="node-externals" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#996600;strokeColor=#664400;fontColor=#FFFFFF;spacing=5;arcSize=15;" value="使用外部工具解决" vertex="1">
+          <mxGeometry height="50" width="130" x="830" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="icon-externals" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" value="🤖" vertex="1">
+          <mxGeometry height="30" width="30" x="940" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="node-divide-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#003366;strokeColor=#002244;fontColor=#FFFFFF;spacing=5;arcSize=15;" value="分解问题" vertex="1">
+          <mxGeometry height="50" width="120" x="380" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="icon-divide-2" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" value="🤖" vertex="1">
+          <mxGeometry height="30" width="30" x="475" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="node-llm-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#888888;strokeColor=#444444;fontColor=#FFFFFF;spacing=5;arcSize=15;" value="使用 LLM 解决" vertex="1">
+          <mxGeometry height="50" width="120" x="520" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="icon-llm-2" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" value="🤖" vertex="1">
+          <mxGeometry height="30" width="30" x="620" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="node-llm-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#888888;strokeColor=#444444;fontColor=#FFFFFF;spacing=5;arcSize=15;" value="使用 LLM 解决" vertex="1">
+          <mxGeometry height="50" width="120" x="320" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="icon-llm-3" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" value="🤖" vertex="1">
+          <mxGeometry height="30" width="30" x="420" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="node-knowledge-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=14;fillColor=#888888;strokeColor=#444444;fontColor=#FFFFFF;spacing=5;arcSize=15;" value="检索知识" vertex="1">
+          <mxGeometry height="50" width="120" x="460" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="icon-knowledge-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" value="📄" vertex="1">
+          <mxGeometry height="30" width="30" x="565" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="node-knowledge-ext" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=13;fillColor=#888888;strokeColor=#444444;fontColor=#FFFFFF;spacing=5;arcSize=15;" value="检索知识" vertex="1">
+          <mxGeometry height="40" width="120" x="640" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="icon-knowledge-ext" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" value="📄" vertex="1">
+          <mxGeometry height="30" width="30" x="725" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="node-fc-logic" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=13;fillColor=#888888;strokeColor=#444444;fontColor=#FFFFFF;spacing=5;arcSize=15;" value="函数调用" vertex="1">
+          <mxGeometry height="40" width="110" x="780" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="node-logic-sub" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=1;fontSize=12;fillColor=#CC9900;strokeColor=#886600;fontColor=#FFFFFF;spacing=2;arcSize=10;" value="逻辑解算器" vertex="1">
+          <mxGeometry height="25" width="110" x="780" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="icon-fc-logic" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" value="🛠️" vertex="1">
+          <mxGeometry height="30" width="30" x="870" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="icon-logic-fork" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" value="🔱" vertex="1">
+          <mxGeometry height="30" width="30" x="820" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="node-fc-math" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=13;fillColor=#888888;strokeColor=#444444;fontColor=#FFFFFF;spacing=5;arcSize=15;" value="函数调用" vertex="1">
+          <mxGeometry height="40" width="110" x="910" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="node-math-sub" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=1;fontSize=12;fillColor=#CC9900;strokeColor=#886600;fontColor=#FFFFFF;spacing=2;arcSize=10;" value="数学" vertex="1">
+          <mxGeometry height="25" width="110" x="910" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="icon-fc-math" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" value="🛠️" vertex="1">
+          <mxGeometry height="30" width="30" x="1000" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="icon-math-sym" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" value="➕➖" vertex="1">
+          <mxGeometry height="30" width="30" x="950" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="node-fc-search" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=13;fillColor=#888888;strokeColor=#444444;fontColor=#FFFFFF;spacing=5;arcSize=15;" value="函数调用" vertex="1">
+          <mxGeometry height="40" width="110" x="1040" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="node-search-sub" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=1;fontSize=12;fillColor=#CC9900;strokeColor=#886600;fontColor=#FFFFFF;spacing=2;arcSize=10;" value="搜索" vertex="1">
+          <mxGeometry height="25" width="110" x="1040" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="icon-fc-search" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" value="🛠️" vertex="1">
+          <mxGeometry height="30" width="30" x="1120" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="icon-search-web" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" value="🌐" vertex="1">
+          <mxGeometry height="30" width="30" x="1080" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-0-1" edge="1" parent="1" source="node-root" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#003366;endArrow=blockThin;endFill=1;" target="node-llm-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-0-2" edge="1" parent="1" source="node-root" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#003366;endArrow=blockThin;endFill=1;" target="node-divide-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-0-3" edge="1" parent="1" source="node-root" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#003366;endArrow=blockThin;endFill=1;" target="node-externals" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-d1-1" edge="1" parent="1" source="node-divide-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#003366;endArrow=blockThin;endFill=1;" target="node-divide-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-d1-2" edge="1" parent="1" source="node-divide-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#003366;endArrow=blockThin;endFill=1;" target="node-llm-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-d2-1" edge="1" parent="1" source="node-divide-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#003366;endArrow=blockThin;endFill=1;" target="node-llm-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-d2-2" edge="1" parent="1" source="node-divide-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#003366;endArrow=blockThin;endFill=1;" target="node-knowledge-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-ext-1" edge="1" parent="1" source="node-externals" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#003366;endArrow=blockThin;endFill=1;" target="node-knowledge-ext" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-ext-2" edge="1" parent="1" source="node-externals" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#003366;endArrow=blockThin;endFill=1;" target="node-fc-logic" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-ext-3" edge="1" parent="1" source="node-externals" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#003366;endArrow=blockThin;endFill=1;" target="node-fc-math" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-ext-4" edge="1" parent="1" source="node-externals" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#003366;endArrow=blockThin;endFill=1;" target="node-fc-search" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
