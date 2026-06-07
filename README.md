@@ -14,7 +14,6 @@ Included skills:
 | `figure-designer` | Design or audit core technical paper figures. |
 | `idea-evaluator` | Evaluate preliminary research ideas. |
 | `intro-drafter` | Draft structured Introduction logic for technical papers. |
-| `openspec-agent-sdd` | Drive OpenSpec spec-driven development end to end from an autonomous agent. |
 | `pre-submission-reviewer` | Run pre-submission paper checks. |
 | `souldraw` | Plan, create, and edit draw.io / mxGraph diagrams. |
 | `tech-paper-template` | Build a technical paper skeleton and consistency check. |
