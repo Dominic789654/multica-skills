@@ -22,6 +22,11 @@
       "origin": "https://github.com/HKUSTDial/Supervisor-Skills/tree/main/plugins/phd-research/skills/intro-drafter"
     },
     {
+      "name": "openspec-agent-sdd",
+      "path": "skills/openspec-agent-sdd",
+      "origin": "local Codex skill package copied from openspec-agent-sdd.zip"
+    },
+    {
       "name": "pre-submission-reviewer",
       "path": "skills/pre-submission-reviewer",
       "origin": "https://github.com/HKUSTDial/Supervisor-Skills/tree/main/plugins/phd-research/skills/pre-submission-reviewer"
